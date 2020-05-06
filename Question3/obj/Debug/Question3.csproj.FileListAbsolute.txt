@@ -1,0 +1,15 @@
+C:\Users\zytlf\source\repos\Quiz3\Question3\bin\Debug\Question3.exe.config
+C:\Users\zytlf\source\repos\Quiz3\Question3\bin\Debug\Question3.exe
+C:\Users\zytlf\source\repos\Quiz3\Question3\bin\Debug\Question3.pdb
+C:\Users\zytlf\source\repos\Quiz3\Question3\obj\Debug\Question3.csprojAssemblyReference.cache
+C:\Users\zytlf\source\repos\Quiz3\Question3\obj\Debug\MainWindow.g.cs
+C:\Users\zytlf\source\repos\Quiz3\Question3\obj\Debug\App.g.cs
+C:\Users\zytlf\source\repos\Quiz3\Question3\obj\Debug\Question3_MarkupCompile.cache
+C:\Users\zytlf\source\repos\Quiz3\Question3\obj\Debug\Question3_MarkupCompile.lref
+C:\Users\zytlf\source\repos\Quiz3\Question3\obj\Debug\MainWindow.baml
+C:\Users\zytlf\source\repos\Quiz3\Question3\obj\Debug\Question3.g.resources
+C:\Users\zytlf\source\repos\Quiz3\Question3\obj\Debug\Question3.Properties.Resources.resources
+C:\Users\zytlf\source\repos\Quiz3\Question3\obj\Debug\Question3.csproj.GenerateResource.cache
+C:\Users\zytlf\source\repos\Quiz3\Question3\obj\Debug\Question3.csproj.CoreCompileInputs.cache
+C:\Users\zytlf\source\repos\Quiz3\Question3\obj\Debug\Question3.exe
+C:\Users\zytlf\source\repos\Quiz3\Question3\obj\Debug\Question3.pdb
